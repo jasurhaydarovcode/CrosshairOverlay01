@@ -1,0 +1,10 @@
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\bin\Debug\CrosshairOverlay01.exe.config
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\bin\Debug\CrosshairOverlay01.exe
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\bin\Debug\CrosshairOverlay01.pdb
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.csproj.AssemblyReference.cache
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.Form1.resources
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.Properties.Resources.resources
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.csproj.GenerateResource.cache
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.csproj.CoreCompileInputs.cache
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.exe
+C:\Users\Jasur\source\repos\CrosshairOverlay01\CrosshairOverlay01\obj\Debug\CrosshairOverlay01.pdb
